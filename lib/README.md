@@ -2,7 +2,7 @@
 #class Person #defines the class 
 class Person
 
-   def initialize(name)
+    def initialize(name)
       @name = name
     end
 
